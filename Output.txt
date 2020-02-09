@@ -1,0 +1,391 @@
+C:\Users\madhu\venv\Scripts\python.exe D:/Uno/.idea/Game.py
+**********
+Player1 has:  26 cards
+Player2 has:  26 cards
+Cards left in deck: 0
+**********
+displaying player1 cards:
+ ********************
+three diamonds
+five diamonds
+king hearts
+two hearts
+nine spades
+seven clubs
+ace clubs
+six clubs
+four clubs
+three hearts
+queen diamonds
+seven hearts
+four spades
+five hearts
+ten diamonds
+two clubs
+jack diamonds
+nine diamonds
+ten spades
+three spades
+eight hearts
+three clubs
+ten clubs
+four hearts
+jack clubs
+eight spades
+********************
+displaying player2 cards:
+ ********************
+two spades
+ace diamonds
+eight diamonds
+six diamonds
+seven spades
+jack spades
+five clubs
+five spades
+six hearts
+ace spades
+nine clubs
+king diamonds
+king clubs
+king spades
+four diamonds
+six spades
+ace hearts
+queen hearts
+queen clubs
+seven diamonds
+jack hearts
+two diamonds
+nine hearts
+queen spades
+ten hearts
+eight clubs
+********************
+It's a tie
+Now Player2 has :  25  cards
+Now Player1 has :  25  cards
+player 2 won this round
+Now Player2 has :  26  cards
+Now Player1 has :  24  cards
+player 2 won this round
+Now Player2 has :  27  cards
+Now Player1 has :  23  cards
+Player1 won this round
+Now Player2 has :  26  cards
+Now Player1 has :  24  cards
+It's a tie
+Now Player2 has :  25  cards
+Now Player1 has :  23  cards
+It's a tie
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+Player1 won this round
+Now Player2 has :  22  cards
+Now Player1 has :  24  cards
+player 2 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+Player1 won this round
+Now Player2 has :  22  cards
+Now Player1 has :  24  cards
+player 2 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  22  cards
+It's a tie
+Now Player2 has :  23  cards
+Now Player1 has :  21  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  20  cards
+player 2 won this round
+Now Player2 has :  25  cards
+Now Player1 has :  19  cards
+Player1 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  20  cards
+player 2 won this round
+Now Player2 has :  25  cards
+Now Player1 has :  19  cards
+Player1 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  20  cards
+It's a tie
+Now Player2 has :  23  cards
+Now Player1 has :  19  cards
+It's a tie
+Now Player2 has :  22  cards
+Now Player1 has :  18  cards
+player 2 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  17  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  16  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  17  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  16  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  17  cards
+player 2 won this round
+Now Player2 has :  24  cards
+Now Player1 has :  16  cards
+Player1 won this round
+Now Player2 has :  23  cards
+Now Player1 has :  17  cards
+It's a tie
+Now Player2 has :  22  cards
+Now Player1 has :  16  cards
+It's a tie
+Now Player2 has :  21  cards
+Now Player1 has :  15  cards
+Player1 won this round
+Now Player2 has :  20  cards
+Now Player1 has :  16  cards
+player 2 won this round
+Now Player2 has :  21  cards
+Now Player1 has :  15  cards
+Player1 won this round
+Now Player2 has :  20  cards
+Now Player1 has :  16  cards
+Player1 won this round
+Now Player2 has :  19  cards
+Now Player1 has :  17  cards
+player 2 won this round
+Now Player2 has :  20  cards
+Now Player1 has :  16  cards
+Player1 won this round
+Now Player2 has :  19  cards
+Now Player1 has :  17  cards
+player 2 won this round
+Now Player2 has :  20  cards
+Now Player1 has :  16  cards
+Player1 won this round
+Now Player2 has :  19  cards
+Now Player1 has :  17  cards
+Player1 won this round
+Now Player2 has :  18  cards
+Now Player1 has :  18  cards
+Player1 won this round
+Now Player2 has :  17  cards
+Now Player1 has :  19  cards
+Player1 won this round
+Now Player2 has :  16  cards
+Now Player1 has :  20  cards
+player 2 won this round
+Now Player2 has :  17  cards
+Now Player1 has :  19  cards
+It's a tie
+Now Player2 has :  16  cards
+Now Player1 has :  18  cards
+It's a tie
+Now Player2 has :  15  cards
+Now Player1 has :  17  cards
+Player1 won this round
+Now Player2 has :  14  cards
+Now Player1 has :  18  cards
+Player1 won this round
+Now Player2 has :  13  cards
+Now Player1 has :  19  cards
+Player1 won this round
+Now Player2 has :  12  cards
+Now Player1 has :  20  cards
+player 2 won this round
+Now Player2 has :  13  cards
+Now Player1 has :  19  cards
+Player1 won this round
+Now Player2 has :  12  cards
+Now Player1 has :  20  cards
+It's a tie
+Now Player2 has :  11  cards
+Now Player1 has :  19  cards
+Player1 won this round
+Now Player2 has :  10  cards
+Now Player1 has :  20  cards
+Player1 won this round
+Now Player2 has :  9  cards
+Now Player1 has :  21  cards
+player 2 won this round
+Now Player2 has :  10  cards
+Now Player1 has :  20  cards
+player 2 won this round
+Now Player2 has :  11  cards
+Now Player1 has :  19  cards
+It's a tie
+Now Player2 has :  10  cards
+Now Player1 has :  18  cards
+It's a tie
+Now Player2 has :  9  cards
+Now Player1 has :  17  cards
+player 2 won this round
+Now Player2 has :  10  cards
+Now Player1 has :  16  cards
+Player1 won this round
+Now Player2 has :  9  cards
+Now Player1 has :  17  cards
+Player1 won this round
+Now Player2 has :  8  cards
+Now Player1 has :  18  cards
+Player1 won this round
+Now Player2 has :  7  cards
+Now Player1 has :  19  cards
+player 2 won this round
+Now Player2 has :  8  cards
+Now Player1 has :  18  cards
+Player1 won this round
+Now Player2 has :  7  cards
+Now Player1 has :  19  cards
+Player1 won this round
+Now Player2 has :  6  cards
+Now Player1 has :  20  cards
+Player1 won this round
+Now Player2 has :  5  cards
+Now Player1 has :  21  cards
+player 2 won this round
+Now Player2 has :  6  cards
+Now Player1 has :  20  cards
+Player1 won this round
+Now Player2 has :  5  cards
+Now Player1 has :  21  cards
+player 2 won this round
+Now Player2 has :  6  cards
+Now Player1 has :  20  cards
+Player1 won this round
+Now Player2 has :  5  cards
+Now Player1 has :  21  cards
+Player1 won this round
+Now Player2 has :  4  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  3  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  4  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  3  cards
+Now Player1 has :  23  cards
+Player1 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  24  cards
+Player1 won this round
+Now Player2 has :  1  cards
+Now Player1 has :  25  cards
+player 2 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  24  cards
+Player1 won this round
+Now Player2 has :  1  cards
+Now Player1 has :  25  cards
+player 2 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  24  cards
+Player1 won this round
+Now Player2 has :  1  cards
+Now Player1 has :  25  cards
+player 2 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  24  cards
+player 2 won this round
+Now Player2 has :  3  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  4  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  3  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  4  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  3  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  4  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  3  cards
+Now Player1 has :  23  cards
+It's a tie
+Now Player2 has :  2  cards
+Now Player1 has :  22  cards
+Player1 won this round
+Now Player2 has :  1  cards
+Now Player1 has :  23  cards
+player 2 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  22  cards
+It's a tie
+Now Player2 has :  1  cards
+Now Player1 has :  21  cards
+player 2 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  20  cards
+Player1 won this round
+Now Player2 has :  1  cards
+Now Player1 has :  21  cards
+player 2 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  20  cards
+Player1 won this round
+Now Player2 has :  1  cards
+Now Player1 has :  21  cards
+player 2 won this round
+Now Player2 has :  2  cards
+Now Player1 has :  20  cards
+Player1 won this round
+Now Player2 has :  1  cards
+Now Player1 has :  21  cards
+It's a tie
+Now Player2 has :  0  cards
+Now Player1 has :  20  cards
+Player1 won this game 
+
+Process finished with exit code 0
